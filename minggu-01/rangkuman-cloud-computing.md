@@ -1,0 +1,3 @@
+Cloud computing
+
+Cloud computing adalah ketersediaan sumber daya sistem komputer berdasarkan permintaan, terutama penyimpanan data (penyimpanan awan) dan daya komputasi, tanpa pengelolaan aktif langsung oleh pengguna.[2] Awan besar sering kali memiliki fungsi yang tersebar di beberapa lokasi, setiap lokasi menjadi pusat data. Komputasi awan bergantung pada berbagi sumber daya untuk mencapai koherensi [perlu klarifikasi] dan skala ekonomi, biasanya menggunakan model "bayar sesuai penggunaan" yang dapat membantu mengurangi biaya modal tetapi juga dapat menyebabkan biaya operasional tak terduga untuk pengguna yang tidak sadar .
