@@ -14,3 +14,19 @@ Perangkat Lunak yang menjawab kebutuhan industri tertentu (misalnya, perangkat l
 b.SaaS Horisontal
 Produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
 
+
+2.SaaS (Software as a Service) Platform itecture
+
+SaaS adalah cara untuk memberikan perangkat lunak, penyedia perangkat lunak secara terpusat menghosting satu atau lebih aplikasi dan membuatnya tersedia untuk pelanggan melalui internet.
+
+SaaS juga merupakan salah satu pilar utama komputasi awan. Ledakan dalam komputasi Cloud, didorong oleh penyedia layanan cloud seperti Microsoft dengan Azure, Amazon Web Services (AWS), Oracle, dan IBM, telah melihat pertumbuhan produk dan layanan lain yang dikirimkan melalui internet termasuk model SaaS berikut:
+
+a.Infrastruktur sebagai Layanan
+
+b.Platform sebagai Layanan
+
+c.Pembelajaran Mesin sebagai Layanan
+
+d.dan banyak lagi!
+
+
