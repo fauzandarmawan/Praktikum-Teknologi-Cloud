@@ -19,6 +19,7 @@ Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didu
 ![3](https://user-images.githubusercontent.com/99378514/155463784-1d805a2e-ccb4-4414-881e-d6451763ca90.jpg)
 
 
+
 3. Pilih next
 ![4](https://user-images.githubusercontent.com/99378514/155463884-eb013980-f266-470b-956e-63da1e2af012.jpg)
 
