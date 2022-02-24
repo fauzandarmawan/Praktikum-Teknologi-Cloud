@@ -13,6 +13,7 @@ c.PaaS - Platform as a Service:
 PaaS juga dapat disebut sebagai layanan platform Cloud. Mereka menyediakan komponen cloud untuk beberapa perangkat lunak. Namun, mereka terutama digunakan untuk aplikasi. PaaS lebih cenderung digunakan oleh pengembang yang mendapatkan kerangka dasar menggunakan PaaS yang dapat mereka kembangkan lebih lanjut. Ini membantu dalam pengembangan dan penyesuaian aplikasi. Ini memudahkan proses pengembangan, pengujian dan penyebaran aplikasi. Hal ini juga sangat hemat biaya. PaaS memungkinkan perusahaan untuk mengelola perangkat lunak operasi, server, penyimpanan, jaringan, dan virtualisasi. Keuntungan utama menggunakan PaaS untuk perusahaan adalah meminimalkan persyaratan pengkodean serta mengotomatiskan kebijakan bisnis. Beberapa platform PaaS yang paling populer adalah Google App Engine, Windows Azure dan Magento Commerce Cloud.
 
 
+
 2.SaaS Platform Architecture
 
 SaaS adalah model pengiriman umum untuk banyak aplikasi bisnis, termasuk perangkat lunak perkantoran dan perpesanan, perangkat lunak manajemen, virtualisasi, dll. Ini adalah bagian dari nomenklatur komputasi awan, bersama dengan infrastruktur sebagai layanan (IaaS), platform sebagai layanan (PaaS) , desktop sebagai layanan (DaaS).
@@ -28,6 +29,7 @@ Perangkat Lunak yang menjawab kebutuhan industri tertentu (misalnya, perangkat l
 
 b.SaaS Horisontal
 Produk yang berfokus pada kategori perangkat lunak (pemasaran, penjualan, alat pengembang, SDM) tetapi agnostik industri.
+
 
 
 3.SaaS (Software as a Service) Platform itecture
@@ -47,6 +49,7 @@ d.dan banyak lagi!
 Setiap pembaruan atau tambalan ke aplikasi SaaS semuanya ditangani oleh penyedia. Pelanggan tidak perlu mengunduh pemutakhiran atau menginstal ulang versi baru produk karena perangkat lunak dikirimkan melalui internet. Ini beroperasi sebagai arsitektur SaaS multi-penyewa di mana semua database dan template yang relevan dengan pengguna berlisensi dapat diakses terlepas dari lokasi.
 
 Dengan penjelasan tentang metodologi SaaS dan perusahaan SaaS, mari kita lihat mengapa Anda mungkin ingin menggunakan produk perangkat lunak yang dirancang seperti ini.
+
 
 
 4.Cara membangun Aplikasi SaaS berbasis cloud.
