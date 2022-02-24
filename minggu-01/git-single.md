@@ -11,8 +11,7 @@ Jika muncul versi (tergantung versi yang terinstall), maka kita bisa mulai mengg
 Windows
 
 Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didukung oleh Windws. Editor yang bisa dipilih banyak, tetapi disarankan menggunakan Notepad++ atau Visual Studion Code atau Vim. Keberadaan editor teks ini akan menentukan keberhasilan instalasi (lihat langkah 5).
- 
-1.Setelah download Git, double click pada file yang di-download. Akan dimunculkan lisensi. Klik Next untuk lanjut.
+1. Setelah download Git, double click pada file yang di-download. Akan dimunculkan lisensi. Klik Next untuk lanjut.
 
 ![2](https://user-images.githubusercontent.com/99378514/155463569-058c5932-5481-4f91-bcff-f83b6599d243.jpg)
 
