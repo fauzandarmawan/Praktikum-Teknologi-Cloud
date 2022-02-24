@@ -1,4 +1,4 @@
-1.Instalasi Git 
+1. Instalasi Git 
 
 
 Bagian ini merupakan seri tulisan tentang Git. Silahkan ke README.md untuk memahami gambaran garis besar materi-materi yang dituliskan.
