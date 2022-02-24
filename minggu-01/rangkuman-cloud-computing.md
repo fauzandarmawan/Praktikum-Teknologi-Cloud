@@ -17,9 +17,11 @@ Sejarah awal
 Selama tahun 1960-an, konsep awal pembagian waktu menjadi dipopulerkan melalui RJE (Remote Job Entry) terminologi ini sebagian besar terkait dengan vendor besar seperti IBM dan DEC. Solusi berbagi waktu penuh tersedia pada awal 1970-an pada platform seperti Multics (pada perangkat keras GE), Cambridge CTSS, dan port UNIX paling awal (pada perangkat keras DEC). Namun, model "pusat data" di mana pengguna mengirimkan pekerjaan ke operator untuk dijalankan di mainframe IBM sangat dominan.
 
 2000an
+
 Pada Juli 2002, Amazon menciptakan anak perusahaan Amazon Web Services, dengan tujuan untuk "memungkinkan pengembang membangun aplikasi inovatif dan kewirausahaan mereka sendiri." Pada bulan Maret 2006 Amazon memperkenalkan Simple Storage Service (S3), diikuti oleh Elastic Compute Cloud (EC2) pada bulan Agustus tahun yang sama. Produk-produk ini memelopori penggunaan virtualisasi server untuk menghadirkan IaaS dengan harga yang lebih murah dan sesuai permintaan.
 
 2010-an
+
 Pada bulan Februari 2010, Microsoft merilis Microsoft Azure, yang diumumkan pada bulan Oktober 2008.
 
 Pada Juli 2010, Rackspace Hosting dan NASA bersama-sama meluncurkan inisiatif perangkat lunak cloud open-source yang dikenal sebagai OpenStack. Proyek OpenStack dimaksudkan untuk membantu organisasi yang menawarkan layanan komputasi awan yang berjalan pada perangkat keras standar. Kode awal berasal dari platform Nebula NASA serta dari platform File Cloud Rackspace. Sebagai penawaran sumber terbuka dan bersama dengan solusi sumber terbuka lainnya seperti CloudStack, Ganeti, dan OpenNebula, ini telah menarik perhatian beberapa komunitas utama. Beberapa penelitian bertujuan untuk membandingkan penawaran open source ini berdasarkan serangkaian kriteria
